@@ -7,7 +7,6 @@ import java.util.*;
  * * Un état est défini par :
  * 1. La position du Joueur.
  * 2. L'ensemble des positions de TOUTES les caisses.
- * * (Basé sur le fichier SokobanState.java de votre ami)
  */
 class Etat implements Comparable<Etat> {
 
